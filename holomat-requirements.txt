@@ -1,0 +1,7 @@
+opencv-python
+pygame
+python-dotenv
+numpy
+torch
+transformers
+mediapipe
